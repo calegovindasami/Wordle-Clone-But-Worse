@@ -1,6 +1,6 @@
 # Wordle-Clone-But-Worse
 
-TODO: The user name is not being sent to the new activity FIX!!!
+TODO: intent.putExtra("Username",txtName.text.toString()) use this code in the MainActivity.kt under the btnSubmitName.setOnClickListener as its needed to get the username
 
 I have created the base of the Wordle-Clone-But-Worse app.
 
